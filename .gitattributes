@@ -1,0 +1,17 @@
+# Enforce LF line endings for cross-platform consistency
+* text=auto eol=lf
+
+# Treat Python as text
+*.py text diff=python
+
+# Treat Markdown as text
+*.md text diff=markdown
+
+# Keep JSON normalized
+*.json text
+
+# Mark binary files
+*.png binary
+*.jpg binary
+*.mp3 binary
+*.wav binary

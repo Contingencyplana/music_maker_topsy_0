@@ -1,0 +1,21 @@
+{
+  "mtc_schema": "rhythm/1.0.0",
+  "bpm": 100,
+  "time_signature": { "beats_per_bar": 4, "beat_unit": 4 },
+  "swing_percent": 0,
+  "tracks": [
+    {
+      "name": "kick",
+      "steps": [1,0,0,0, 1,0,0,0, 1,0,0,0, 1,0,0,0]
+    },
+    {
+      "name": "snare",
+      "steps": [0,0,0,0, 1,0,0,0, 0,0,0,0, 1,0,0,0]
+    },
+    {
+      "name": "hihat",
+      "steps": [0,1,0,1, 0,1,0,1, 0,1,0,1, 0,1,0,1]
+    }
+  ]
+}
+

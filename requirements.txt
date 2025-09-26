@@ -1,0 +1,7 @@
+# Music Maker (Topsy) dependencies
+# Keep minimal; expand as needed.
+
+# Core runtime: Python 3.10+ (stdlib only for now)
+
+# Dev/test
+pytest>=7.0.0
