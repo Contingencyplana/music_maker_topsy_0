@@ -1,6 +1,7 @@
 # spellsung_enchanted_runescape.md — The Runic World
 
 ## Purpose
+
 This scroll defines the **world-fabric** underlying the Creative Ecosystem.
 It is the enchanted runescape: a land where **everything is built from vibrant magic runes** — people, fauna, flora, storms, and seas alike.
 It provides the mythic lens through which Topsy, Thorn, and the Archipelago are all understood.
@@ -8,6 +9,7 @@ It provides the mythic lens through which Topsy, Thorn, and the Archipelago are 
 ---
 
 ## Core Metaphor
+
 - **Runes = Atoms of Reality**
   Each rune is a glowing glyph of sound, meaning, or vibration.
   Together, they combine into beings, landscapes, and phenomena.
@@ -24,6 +26,7 @@ It provides the mythic lens through which Topsy, Thorn, and the Archipelago are 
 ---
 
 ## The Lands of Runes
+
 - **The Academy**
   A citadel of song, where students learn to hear and arrange runes.
 - **The Archipelago**
@@ -38,6 +41,7 @@ It provides the mythic lens through which Topsy, Thorn, and the Archipelago are 
 ---
 
 ## Roles Within the Rune-World
+
 - **Students (Theory Repos):** apprentices learning the first glyphs.
 - **Builders (Builder Repos):** artisans engraving full spell-phrases into scrolls.
 - **Makers (Topsy & Thorn):** performers and challengers, summoning songs into being.
@@ -46,6 +50,7 @@ It provides the mythic lens through which Topsy, Thorn, and the Archipelago are 
 ---
 
 ## Why This Matters
+
 - **Unifies the Ecosystem:** Every file, export, and state becomes a rune in-story.
 - **Expands Playability:** Words, music, and code are all “spells” in this enchanted land.
 - **Supports Growth:** Graphics can be layered later — glowing glyphs, rune-creatures, rune-forests — without breaking the metaphor.
@@ -53,7 +58,9 @@ It provides the mythic lens through which Topsy, Thorn, and the Archipelago are 
 ---
 
 ## Failsafe Expansion
+
 If boredom ever encroaches, the rune-world itself cracks and reveals deeper chaos:
+
 - **Doctor’s Basement** — monstrous runes stitched into aberrations.
 - **Timestorm Rising** — the rune-sky fractures, time unravels.
 - **Ocean Floods** — whole islands drowned in glyph-waves.

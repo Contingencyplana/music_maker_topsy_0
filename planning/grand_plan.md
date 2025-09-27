@@ -37,12 +37,12 @@ This scroll fixes the foundation for **Creative Ecosystem AI**: a three-octave a
 ## Notes & Conventions
 
 - **Cap at 21**: keeps repos, zips, and coordination sane.
-- **Four-layer cascade in every repo**
+- **Four-layer cascade in every repo**  
 
 ```text
 step_1/
 step_1_1/
-step_1_1_1/  # deepest, runnable node
+step_1_1_1/  # deepest, runnable node 
 planning.md
 story.md
 code.py
@@ -50,7 +50,7 @@ json/          # runtime state
 exports/       # builders only
 ```
 
-- **Makers (15–16)** load all seven builder artifacts:
+- **Makers (15–16)** load all seven builder artifacts:  
 `rhythm.json`, `melody.mid/json`, `harmony.json`, `form.json`, `instruments.json`, `expression.json`, `mix.json`.
 - **Synergies (17–21)** live *inside* these seven apex repos as scrolls/subsystems (no extra repos), preserving the 21 cap.
 - **Schema discipline**: every export includes `"mtc_schema": "<domain>/<semver>"`; maker input contracts mirror these.
@@ -59,17 +59,17 @@ exports/       # builders only
 
 ## Suggested Build Order (Macro)
 
-1. **Pilot chain**: `theory_rhythm_0 → builder_rhythm_0 → music_maker_thorn_0` (or `music_maker_topsy_0`).
-2. **Clone pattern** across melody, harmony, form, sound, expression, mix.
-3. Stand up **music_maker_topsy_0** (the nurturing pole).
+1. **Pilot chain**: `theory_rhythm_0 → builder_rhythm_0 → music_maker_thorn_0` (or `music_maker_topsy_0`).  
+2. **Clone pattern** across melody, harmony, form, sound, expression, mix.  
+3. Stand up **music_maker_topsy_0** (the nurturing pole).  
 4. Layer in **synergy repos (17–21)** as docs/tools that support the whole stack.
 
 ---
 
 ## Why This Works
 
-- **14 musical repos** (7 theory + 7 builders) drive depth and practice.
-- **7 apex repos** (2 makers + 5 synergies) keep the mythos, operations, and joy alive without exploding repo count.
+- **14 musical repos** (7 theory + 7 builders) drive depth and practice.  
+- **7 apex repos** (2 makers + 5 synergies) keep the mythos, operations, and joy alive without exploding repo count.  
 - You can **play** and **make** continuously, with clear contracts and zero sprawl.
 
 ---
