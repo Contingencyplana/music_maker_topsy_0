@@ -1,25 +1,33 @@
-# --- Python ---
+# Byte-compiled / cache files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.egg-info/
-.eggs/
+*.py[cod]
+*$py.class
 
-# --- Virtual environments ---
+# Virtual environments
 .venv/
 env/
 venv/
+ENV/
 
-# --- VS Code ---
+# VS Code settings (except tasks.json if you want it tracked)
 .vscode/*
 !.vscode/settings.json
+!.vscode/tasks.json
 
-# --- OS artifacts ---
+# Distribution / packaging
+/dist/*
+build/
+*.egg-info/
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+
+# OS-specific
 .DS_Store
 Thumbs.db
 
-# --- Project-specific ---
-json/
+# Exports and runtime state
 exports/
-samples/*.tmp
+json/
